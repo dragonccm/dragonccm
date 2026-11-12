@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Nguyễn Ngọc Long · Fullstack & Mobile Developer · Web / Mobile / Games" />
+  <img src="./assets/banner-pixel.png" width="100%" alt="DRAGONCCM — Build. Play. Repeat. — Góc lập trình pixel art với rồng nhỏ" />
 </p>
 
 <p align="center">
-  <a href="https://dragonccm-portforlio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=6ee7b7" alt="Portfolio" /></a>
-  <a href="mailto:nguyenngoclong5511@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-0f172a?style=for-the-badge&logo=gmail&logoColor=6ee7b7" alt="Email Nguyễn Ngọc Long" /></a>
-  <a href="https://github.com/dragonccm?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-0f172a?style=for-the-badge&logo=github&logoColor=6ee7b7" alt="Xem các repository" /></a>
+  <b>Nguyễn Ngọc Long</b><br />
+  Fullstack &amp; Mobile Developer · Cần Thơ, Việt Nam<br /><br />
+  <a href="https://dragonccm-portforlio.vercel.app">Portfolio ↗</a> &nbsp; / &nbsp;
+  <a href="mailto:nguyenngoclong5511@gmail.com">Email ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/dragonccm?tab=repositories">Projects ↗</a>
 </p>
 
-### Xin chào, mình là Long 👋
+### Một chút về mình
 
 Kỹ sư **Kỹ thuật Phần mềm** tại Cần Thơ, Việt Nam. Mình xây dựng ứng dụng web, mobile và khám phá phát triển game — từ giao diện người dùng đến API và dữ liệu phía sau.
 
@@ -16,7 +18,7 @@ Mình thích **UI chỉn chu, code dễ bảo trì và kiến trúc serverless**
 
 ---
 
-### Selected work
+### Những thứ mình xây dựng
 
 <table>
 <tr>
@@ -81,7 +83,7 @@ Không gian giới thiệu bản thân và các dự án mình xây dựng.
 </tr>
 </table>
 
-### Toolbox
+### Công nghệ mình dùng
 
 | Mảng | Công nghệ |
 | :--- | :--- |
